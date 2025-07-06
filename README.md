@@ -1,4 +1,4 @@
-ATP - Preparação e Análise Exploratória de Dados
+# ATP - Preparação e Análise Exploratória de Dados
 
 ## Contexto
 A empresa Enron foi uma companhia de energia americana, localizada em Houston no Texas. Tendo sido uma das empresas líderes no mundo em distribuição de energia (electricidade, gás natural) e comunicações. Seu faturamento atingia 101 bilhões de dólares no ano de 2000, pouco antes do escândalo financeiro que ocasionou sua falência.
